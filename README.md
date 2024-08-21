@@ -18,16 +18,26 @@ This repository contains the backend API for the KangaCook Order Application. Th
 1. **Clone the repository:**
 
 ```git clone https://github.com/yourusername/kangacook-order-backend.git```
+
+
 2. **Navigate to the project directory:**
 
 ```cd kangacook-order-backend```
+
+
 3. **Create and activate a virtual environment:**
 
 ```python -m venv venv```
 ```source venv/bin/activate```
+
+
 4. **Install the dependencies:**
 ```pip install -r requirements.txt```
-5. **Apply migrations:**
+
+
+6. **Apply migrations:**
 ```python manage.py migrate```
-6. **Start the development server:**
+
+
+8. **Start the development server:**
 ```python manage.py runserver```
